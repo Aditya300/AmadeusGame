@@ -71,7 +71,15 @@ d3.json("/us.json", function(error, us) {
                 var p2lng = (airports[iataCodes.indexOf(data.results[k].destination)][2]);
                 var price = (parseFloat(data.results[k].price));
 
-                //gameArr
+                var travelObj = {
+                    "from" : airports[iataCodes.indexOf(data.origin)][0],
+                    "fromIATA" : data.origin,
+                    "to" : airports[iataCodes.indexOf(data.results[k].destination)][0],
+                    "toIATA" : data.results[k].destianation,
+                    "price" : data.results[k].price
+                }
+                gameArr.push(travelObj);
+
                 var lineData = [{"x": parseFloat(p1lat), "y": parseFloat(p1lng)},
                     {"x": parseFloat(p2lat), "y": parseFloat(p2lng)}];
                 var geoMultiPoint = {

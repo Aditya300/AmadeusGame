@@ -4,8 +4,6 @@
     <list default="true" id="ae0068b4-d76b-4ffa-a96f-8b8cee604ea9" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/javascripts/program.js" afterPath="$PROJECT_DIR$/public/javascripts/program.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/stylesheets/style.css" afterPath="$PROJECT_DIR$/public/stylesheets/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/index.ejs" afterPath="$PROJECT_DIR$/views/index.ejs" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -40,8 +38,8 @@
       <file leaf-file-name="program.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/public/javascripts/program.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="388">
-              <caret line="134" column="49" lean-forward="false" selection-start-line="134" selection-start-column="49" selection-end-line="134" selection-end-column="49" />
+            <state relative-caret-position="327">
+              <caret line="80" column="40" lean-forward="true" selection-start-line="80" selection-start-column="40" selection-end-line="80" selection-end-column="40" />
               <folding />
             </state>
           </provider>
@@ -325,7 +323,7 @@
       <option name="presentableId" value="Default" />
       <updated>1484378229234</updated>
       <workItem from="1484378235960" duration="8114000" />
-      <workItem from="1484404151461" duration="50083000" />
+      <workItem from="1484404151461" duration="50978000" />
     </task>
     <task id="LOCAL-00001" summary="common code">
       <created>1484458960651</created>
@@ -334,11 +332,18 @@
       <option name="project" value="LOCAL" />
       <updated>1484458960651</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="ready to apply game logic">
+      <created>1484467240243</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1484467240243</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="58197000" />
+    <option name="totallyTimeSpent" value="59092000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1" y="-1" width="1922" height="931" extended-state="6" />
@@ -371,7 +376,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="common code" />
-    <option name="LAST_COMMIT_MESSAGE" value="common code" />
+    <MESSAGE value="ready to apply game logic" />
+    <option name="LAST_COMMIT_MESSAGE" value="ready to apply game logic" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -500,8 +506,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/public/javascripts/program.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="388">
-          <caret line="134" column="49" lean-forward="false" selection-start-line="134" selection-start-column="49" selection-end-line="134" selection-end-column="49" />
+        <state relative-caret-position="327">
+          <caret line="80" column="40" lean-forward="true" selection-start-line="80" selection-start-column="40" selection-end-line="80" selection-end-column="40" />
           <folding />
         </state>
       </provider>
