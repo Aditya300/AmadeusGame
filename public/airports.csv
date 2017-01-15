@@ -1,5 +1,12 @@
-name,latitude_deg,longitude_deg,iso_region,municipality,iata_code,home_link,wikipedia_link,keywords
-"Albuquerque International Sunport Airport",35.04019928,-106.6090012,US-NM,Albuquerque,ABQ,,http://en.wikipedia.org/wiki/Albuquerque_International_Sunport,
-"Hartsfield Jackson Atlanta International Airport",33.63669968,-84.42810059,US-GA,Atlanta,ATL,http://www.atlanta-airport.com/,http://en.wikipedia.org/wiki/Hartsfield-Jackson_Atlanta_International_Airport,
-"Austin Bergstrom International Airport",30.19449997,-97.66989899,US-TX,Austin,AUS,http://www.ci.austin.tx.us/austinairport/,http://en.wikipedia.org/wiki/Austin-Bergstrom_International_Airport,
-"Beale Air Force Base",39.13610077,-121.4369965,US-CA,Marysville,BAB,,http://en.wikipedia.org/wiki/Beale_Air_Force_Base,
+name,latitude_deg,longitude_deg,iso_region,municipality,iata_code,home_link,wikipedia_link,keywords,id
+"Hartsfield Jackson Atlanta International Airport",33.63669968,-84.42810059,US-GA,Atlanta,ATL,http://www.atlanta-airport.com/,http://en.wikipedia.org/wiki/Hartsfield-Jackson_Atlanta_International_Airport,,0
+"Charlotte Douglas International Airport",35.2140007,-80.94309998,US-NC,Charlotte,CLT,http://www.charlotteairport.com/,http://en.wikipedia.org/wiki/Charlotte/Douglas_International_Airport,,1
+"Denver International Airport",39.86169815,-104.6729965,US-CO,Denver,DEN,http://www.flydenver.com/,http://en.wikipedia.org/wiki/Denver_International_Airport,"DVX, KVDX",2
+"Dallas Fort Worth International Airport",32.89680099,-97.03800201,US-TX,"Dallas-Fort Worth",DFW,http://www.dfwairport.com/,http://en.wikipedia.org/wiki/Dallas-Fort_Worth_International_Airport,QDF,3
+"Miami International Airport",25.79319954,-80.29060364,US-FL,Miami,MIA,http://www.miami-airport.com/,http://en.wikipedia.org/wiki/Miami_International_Airport,"MFW, South Florida",4
+"Chicago O'Hare International Airport",41.97859955,-87.90480042,US-IL,Chicago,ORD,http://www.flychicago.com/ohare/en/home/Pages/default.aspx,http://en.wikipedia.org/wiki/O'Hare_International_Airport,"CHI, Orchard Place",5
+"San Francisco International Airport",37.61899948,-122.375,US-CA,"San Francisco",SFO,http://www.flysfo.com/,http://en.wikipedia.org/wiki/San_Francisco_International_Airport,"QSF, QBA",6
+"McCarran International Airport",36.08010101,-115.1520004,US-NV,"Las Vegas",LAS,http://www.mccarran.com/,http://en.wikipedia.org/wiki/McCarran_International_Airport,,7
+"Los Angeles International Airport",33.94250107,-118.4079971,US-CA,"Los Angeles",LAX,http://www.iflylax.com/,http://en.wikipedia.org/wiki/Los_Angeles_International_Airport,,8
+"John F Kennedy International Airport",40.63980103,-73.77890015,US-NY,"New York",JFK,http://www.panynj.gov/CommutingTravel/airports/html/kennedy.html,http://en.wikipedia.org/wiki/John_F._Kennedy_International_Airport,"Manhattan, New York City, NYC, Idlewild",9
+"Boeing Field King County International Airport",47.52999878,-122.302002,US-WA,Seattle,BFI,,http://en.wikipedia.org/wiki/Boeing_Field,,10
